@@ -1,1 +1,0 @@
-denna hemsida är baserad på call of duty mw3 där jag visar mina personliga klasser och uppdateras av mig manuellt för att visa vilka vapen som är de bästa i spelet vid tillfället och vad man ska ha på de olika klasserna. sedan har jag med hjälp av apininja lagt så att det kommer slumpmässiga skämt så man har det lite roligt medans man kollar 
